@@ -10,7 +10,7 @@ First download the folder **colour_previewer** from this page. Then the widget f
 The /addons/[site-ref]/widgets/colour_previewer
 The /addons/shared_addons/widgets/colour_previewer
 
-***Important***
+***Important:***
 Then you may need the alter the path for a JavaScript import on line **24** in **colour_previewer/views/display.php**
 
 ### Setup

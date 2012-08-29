@@ -7,8 +7,9 @@ This is a widget created for PyroCMS that allows the site owner to create a colo
 
 First download the folder **colour_previewer** from this page. Then the widget folder should be added in one of the following locations:
 
-The /addons/[site-ref]/widgets/colour_previewer
-The /addons/shared_addons/widgets/colour_previewer
+The **/addons/[site-ref]/widgets/colour_previewer**
+
+The **/addons/shared_addons/widgets/colour_previewer**
 
 ***Important:***
 Then you may need the alter the path for a JavaScript import on line **24** in **colour_previewer/views/display.php**

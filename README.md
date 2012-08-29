@@ -12,7 +12,7 @@ The **/addons/[site-ref]/widgets/colour_previewer**
 The **/addons/shared_addons/widgets/colour_previewer**
 
 ***Important:***
-Then you may need the alter the path for a JavaScript import on line **24** in **colour_previewer/views/display.php**
+You may need to alter the path for a JavaScript import on line **24** in **colour_previewer/views/display.php**, this is to allow use of [jscolor](http://jscolor.com/).
 
 ### Setup
 
